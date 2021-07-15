@@ -1,0 +1,68 @@
+body
+{
+    background-color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+    nav {
+background-color:#4682B4;
+border-radius: 24px;
+padding:16px;
+    }
+ nav a {
+background-color: #4682B4;
+border-radius: 24px;
+padding: 16px;
+background-color: #B0C4DE;
+text-decoration:none;
+}
+
+nav a{
+    margin:16px;
+    padding: 8px;
+
+}
+
+nav a:hover{
+    background-color:red
+    transition: 2s;
+}
+div {
+    background-color: #87CEEB;
+}
+
+.sobre {
+    background-color:#87CEEB;
+}
+
+.sobre div {
+    background-color: #20B2AA;
+}
+
+.principal {
+    background: color #468284;
+    font-size:20px;
+    color: #484848;
+    padding-left: 12px;
+    text-align:center;
+    border-radius: 2px;
+}
+
+.principal a:hover {
+background-color: white; 
+transition: 0.5
+}
+.descricao {
+    color: #4682B4;
+}
+
+.tecnologia {
+    background-color: white
+}
+
+.image-perfil {
+    width: 125px;
+    border: 4px black solid;
+    border-radius: 12px 4px 12px 4px;
+    margin-left:46px;
+}
